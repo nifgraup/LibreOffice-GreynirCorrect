@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest:manifest>
+    <manifest:file-entry
+        manifest:media-type="application/vnd.sun.star.uno-component;type=Python"
+        manifest:full-path="Proofreader.py"/>
+    <manifest:file-entry
+        manifest:media-type="application/vnd.sun.star.configuration-data"
+        manifest:full-path="Linguistic.xcu" />
+</manifest:manifest>
